@@ -1,0 +1,5 @@
+python3-gatt (0.2.6-1) UNRELEASED; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Takahide Nojima <nojima@unknown>  Tue, 14 Dec 2021 10:44:49 +0000

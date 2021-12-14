@@ -1,0 +1,6 @@
+build.log
+gatt-python/
+gatt-python/*
+gatt-python-0.2.6/
+gatt-python-0.2.6/*
+python3-gatt_*
